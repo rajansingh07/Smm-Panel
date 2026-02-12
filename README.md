@@ -114,10 +114,7 @@ SMM Panel/
 
 The architecture follows separation of concerns and scalable backend design principles.
 
-You can paste this inside your README.md.
-
-🏗 System Architecture
-flowchart LR
+🏗 **System Architecture flowchart LR**
 
     %% Client Layer
     A[User Browser] --> B[React Frontend<br/>Vite + Tailwind]
