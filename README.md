@@ -316,3 +316,13 @@ Designed with relational references using MongoDB ObjectIds for efficient data l
 ## 📄 License
 
 MIT License
+
+---
+
+## 👨‍💻 Author
+
+**Rajan Singh**  
+(Frontend Developer)
+
+**Aditya Singh**
+(Backend Developer)
